@@ -1,7 +1,7 @@
 
 # Goal of the project
 
-- Collect the data of a subset of wikipedia pages like views and access type , perform few data processing and save the data in json formats. 
+- Collect the data of a subset of wikipedia pages with information like views and access type , perform few data processing and save the data in json formats. 
 - Use the data to perform few visualization tasks.
 
 # Licences and terms & conditions
