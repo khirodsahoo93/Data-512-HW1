@@ -16,22 +16,16 @@ Source data licence:
 
 [GFDL](https://www.gnu.org/copyleft/fdl.html) 
 
-# Souce data:
+# Souce data
 
-[Wikimedia Rest API](https://drive.google.com/file/d/1gtFZAjRoOShsqZKuNhiiSn9Ko4ky-CSC/view)
+[Pageview API documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews)
 
 [Terms and conditions](https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions)
+ 
+# Output
 
-#
 
-
-
-Terms and Conditions of the Wikimedia Foundation REST API used to collect data:
-https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions
-
-API documentation: 
-
-The notebook will generate two kinds of  
+ 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
