@@ -39,8 +39,8 @@ The notebook is divided into 2 parts:
 
 ## Data Analysis
 
-- Intermediate files to generate the visualizations are stored in this [folder].(https://github.com/khirodsahoo93/data-512-homework_1/tree/main/csv_data)
-- Three different charts were generated and saved in [output] folder
+- Intermediate files to generate the visualizations are stored in this [folder](https://github.com/khirodsahoo93/data-512-homework_1/tree/main/csv_data).
+- Three different charts were generated and saved in [output](https://github.com/khirodsahoo93/data-512-homework_1/tree/main/charts) folder.
    1. Maximum Average and Minimum Average - The graph contains time series for the articles that have the highest average page requests and the lowest average page  
       requests for desktop access and mobile access. 
    2. Top 10 Peak Page Views - The second graph contains time series for the top 10 article pages by largest (peak) page views over the entire time by access type.
