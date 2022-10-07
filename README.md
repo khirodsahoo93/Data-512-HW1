@@ -1,8 +1,8 @@
 
 # Goal of the project
 
-1. Collect the data of a subset of wikipedia pages like views and access type , perform few data processing and save the data in json formats. 
-2. Use the data to perform few visualization tasks.
+- Collect the data of a subset of wikipedia pages like views and access type , perform few data processing and save the data in json formats. 
+- Use the data to perform few visualization tasks.
 
 # Licences and terms & conditions
 
@@ -24,6 +24,14 @@ Source data licence:
  
 # Output
 
+The notebook is divided into 2 parts:
+
+- Data Acquisition
+- Data Analysis
+
+## Data Acquisition
+- Pageviews API is used to collect time series data of article traffic from July 2015 to September 2022.
+- The data counts the pageviews for a subset of wikipedia pages which are basically [dinosaurs related articles]().
 
  
 
