@@ -32,15 +32,15 @@ The notebook is divided into 2 parts:
 ## Data Acquisition
 - Pageviews API is used to collect time series data of article traffic from July 2015 to September 2022.
 - The data counts the pageviews for a subset of wikipedia pages which are basically [dinosaurs related articles](https://github.com/khirodsahoo93/data-512-homework_1/blob/main/dinosaurs.csv).
--The data is processed ,converted to json format and saved in 3 different json files.
-  1. Pageviews count for mobile- dino_monthly_mobile_2015010100-2022100100.json
-  2. PageViews count for desktop- dino_monthly_desktop_2015010100-2022100100.json
-  3. Pageviews count for cumulative all-access - dino_monthly_cumulative_2015010100-2022100100.json
+- The data is processed ,converted to json format and saved in 3 different json files.
+  1. Pageviews count for mobile- dino_monthly_mobile_20150101-20221001.json
+  2. PageViews count for desktop- dino_monthly_desktop_20150101-20221001.json
+  3. Pageviews count for cumulative all-access - dino_monthly_cumulative_20150101-20221001.json
 
 ## Data Analysis
 
-- Intermediate files to generate the visualizations are stored in this [folder].(https://github.com/khirodsahoo93/data-512-homework_1/tree/main/csv_data)
-- Three different charts were generated and saved in [output] folder
+- Intermediate files to generate the visualizations are stored in this [folder](https://github.com/khirodsahoo93/data-512-homework_1/tree/main/csv_data).
+- Three different charts were generated and saved in [output](https://github.com/khirodsahoo93/data-512-homework_1/tree/main/charts) folder.
    1. Maximum Average and Minimum Average - The graph contains time series for the articles that have the highest average page requests and the lowest average page  
       requests for desktop access and mobile access. 
    2. Top 10 Peak Page Views - The second graph contains time series for the top 10 article pages by largest (peak) page views over the entire time by access type.
